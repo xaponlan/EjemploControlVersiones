@@ -1,0 +1,18 @@
+---
+title: "Areas"
+author: "Xavi Ponsoda Langon"
+date: "2025-01-31"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Area Circulo
+
+```{r cars}
+r<- 1.5
+area<- pi*(r^2)
+```
+
