@@ -11,8 +11,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Area Circulo
 
-```{r cars}
+```{r}
 r<- 1.5
-area<- pi*(r^2)
+area_circulo<- pi*(r^2)
 ```
+## Area Cuadrado
 
+```{r}
+lado<-3
+area_cuadrado<- lado^2
