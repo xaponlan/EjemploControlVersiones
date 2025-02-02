@@ -33,5 +33,12 @@ area_triangulo= (base*altura)/2
 ```{r}
 base<-5
 altura<-2
-base_rectangulo=base*altura
+area_rectangulo=base*altura
 ```
+
+##Area trapecio
+```{r}
+b<- 3
+B<- 5
+H<- 2
+area_trapecio=((b+B)*H)/2
