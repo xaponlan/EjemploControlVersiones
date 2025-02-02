@@ -4,6 +4,11 @@ Perimetro_cuadrado<- function(l){
 }
 
 Longitud_circunf<- function(r){
-  longitud= pi *2*r
+  longitud= 3.14159 *2*r
   return (longitud)
+}
+
+Perim_rectangulo<- function(b, a){
+  perimetro= 2*a+2*b
+  return(perimetro)
 }
