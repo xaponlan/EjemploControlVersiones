@@ -9,6 +9,8 @@ Longitud_circunf<- function(r){
 }
 
 Perim_rectangulo<- function(b, a){
-  perimetro= (a+b)*2
+
+  perimetro=2*(b+a)
+
   return(perimetro)
 }
