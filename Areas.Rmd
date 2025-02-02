@@ -29,4 +29,9 @@ altura<-3
 area_triangulo= (base*altura)/2
 ```
 
-
+##Area rectangulo
+```{r}
+base<-5
+altura<-2
+base_rectangulo=base*altura
+```
