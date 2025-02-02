@@ -20,3 +20,4 @@ area_circulo<- pi*(r^2)
 ```{r}
 lado<-3
 area_cuadrado<- lado^2
+´´´
